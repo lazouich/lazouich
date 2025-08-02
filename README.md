@@ -1,16 +1,25 @@
-## Hi there 👋
+![hi](wordart.png)
 
-<!--
-**lazouich/lazouich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Senior Software Engineer** specializing in backend systems, cloud infrastructure, and geospatial data.  
 
-Here are some ideas to get you started:
+---
+## 🔧 Backend
+**Python**, **FastAPI**, **SQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ Cloud & Infrastructure
+**AWS**, **Pulumi**, **Docker**
+
+## 🗺️ Geospatial
+**PostGIS**, **QGIS**, **Shapely**, **Pandas**, **Plotly**
+
+## 🎤 Speaking & Community
+
+- 🎙️ **PyOhio 2025** — *Wildfires!*  
+- 🎙️ **PyCon 2024** — *Geospatial Validations Using FastAPI and PostGIS*
+- 🫱🏽‍🫲🏾 **Community Leadership** — Executor: North America [Black Python Devs](https://blackpythondevs.com)
+
+
+
+![Follow](https://i.pinimg.com/originals/55/28/63/552863c1f82a241b001f7d6eefaa4f2a.gif)
+
+ **[LinkedIn](https://www.linkedin.com/in/lazouich-ford)** | ✉️ lazouichford@gmail.com
