@@ -22,4 +22,4 @@
 
 ![Follow](https://i.pinimg.com/originals/55/28/63/552863c1f82a241b001f7d6eefaa4f2a.gif)
 
- **[LinkedIn](https://www.linkedin.com/in/lazouich-ford)** | ✉️ lazouichford@gmail.com
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lazouich-ford) | ✉️ Hello@lazouich.com
